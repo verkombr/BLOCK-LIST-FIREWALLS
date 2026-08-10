@@ -1,5 +1,5 @@
 # VRK-ALLOW-LIST — ALLOW LIST
-# Gerado: 2026-08-10T12:26:20.293373+00:00 UTC
+# Gerado: 2026-08-10T12:26:30.163199+00:00 UTC
 # Redes que NUNCA devem ser bloqueadas (infra Verkom + RFC1918)
 # Total: 7 redes
 
