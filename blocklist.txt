@@ -1,5 +1,4 @@
-# VRK-BLOCK-LIST — BLOCK LIST
-# Gerado: 2026-08-10T12:26:30.163050+00:00 UTC
+# BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 7 IPs
 
