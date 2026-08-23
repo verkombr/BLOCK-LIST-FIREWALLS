@@ -1,3 +1,4 @@
+# bloqueado dia 23/08 as 03h52 por ataques na mssql
 # bloqueado dia 23/08 as 03h50 por ataques na mssql
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
