@@ -1,3 +1,4 @@
+# bloqueado dia 24/08 as 12h10 por ataques na mssql
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 72 IPs (18 permanentes 🔁)
