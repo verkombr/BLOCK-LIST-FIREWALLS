@@ -1,3 +1,4 @@
+# bloqueado dia 27/08 as 15h17 por ataques na nginx
 # bloqueado dia 27/08 as 15h16 por ataques na nginx
 # bloqueado dia 27/08 as 15h15 por ataques na nginx
 # BLOCK LIST
