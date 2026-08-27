@@ -1,3 +1,4 @@
+# bloqueado dia 27/08 as 16h02 por ataques na mssql: 179.137.110.20
 # bloqueado dia 27/08 as 16h01 por ataques na nginx
 # bloqueado dia 27/08 as 16h00 por ataques na nginx
 # bloqueado dia 27/08 as 15h59 por ataques na nginx
