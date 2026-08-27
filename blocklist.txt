@@ -1,3 +1,4 @@
+# bloqueado dia 27/08 as 14h43 por ataques na nginx
 # bloqueado dia 27/08 as 14h42 por ataques na nginx
 # bloqueado dia 27/08 as 14h41 por ataques na nginx
 # bloqueado dia 27/08 as 14h40 por ataques na nginx
