@@ -1,3 +1,4 @@
+# bloqueado dia 29/08 as 14h40 por ataques na sondagem: 187.33.202.221
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 159 IPs (17 permanentes 🔁)
