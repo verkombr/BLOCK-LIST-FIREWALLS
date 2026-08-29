@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-29T08:25:01.519993+00:00",
+  "gerado_em": "2026-08-29T12:45:01.392372+00:00",
   "fonte": "auto-block Wazuh rule 61071/5760/5503/5710/2502/11403/60122 -> FortiGate",
   "firewalls": [
     "EVEO",
