@@ -1,3 +1,4 @@
+# bloqueado dia 30/08 as 11h00 por ataques na nginx: 104.196.44.172
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 176 IPs (17 permanentes 🔁)
