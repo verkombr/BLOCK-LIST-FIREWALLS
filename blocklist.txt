@@ -1,3 +1,4 @@
+# bloqueado dia 30/08 as 15h31 por ataques na mssql: 138.186.24.95
 # bloqueado dia 30/08 as 15h30 por ataques na mssql: 138.186.24.95
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
