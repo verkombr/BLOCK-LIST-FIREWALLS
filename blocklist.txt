@@ -1,3 +1,4 @@
+# bloqueado dia 31/08 as 17h08 por ataques na nginx: 34.118.25.128
 # bloqueado dia 31/08 as 17h06 por ataques na nginx: 34.116.153.85
 # bloqueado dia 31/08 as 17h05 por ataques na nginx: 34.116.217.233
 # BLOCK LIST
