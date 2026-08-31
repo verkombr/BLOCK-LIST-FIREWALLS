@@ -1,3 +1,4 @@
+# bloqueado dia 31/08 as 19h56 por ataques na nginx: 189.9.78.7
 # bloqueado dia 31/08 as 19h55 por ataques na nginx: 189.9.78.8
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
