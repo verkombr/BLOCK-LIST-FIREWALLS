@@ -1,8 +1,6 @@
-# bloqueado dia 31/08 as 05h10 por ataques na sondagem: 189.56.116.2
-# bloqueado dia 31/08 as 05h10 por ataques na nginx: 103.168.66.237
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 188 IPs (17 permanentes 🔁)
+# Total: 189 IPs (17 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.132.224.0
@@ -108,6 +106,7 @@
 #fim da lista de ips atacantes ao mssql
 
 #inicio da lista de ips que atacaram nginx
+103.168.66.237
 103.168.67.253
 104.196.44.172
 13.40.7.132
