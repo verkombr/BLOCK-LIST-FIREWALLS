@@ -1,3 +1,4 @@
+# bloqueado dia 01/09 as 02h31 por ataques na mssql: 201.93.183.181
 # bloqueado dia 01/09 as 02h30 por ataques na mssql: 201.93.183.181
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
