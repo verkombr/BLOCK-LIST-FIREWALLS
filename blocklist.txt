@@ -1,9 +1,6 @@
-# bloqueado dia 02/09 as 16h10 por ataques na sondagem: 1.2.3.4
-# bloqueado dia 02/09 as 16h08 por ataques na sondagem: 1.2.3.4
-# bloqueado dia 02/09 as 16h07 por ataques na sondagem: 1.2.3.4
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 217 IPs (16 permanentes 🔁)
+# Total: 218 IPs (16 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.132.224.0
@@ -241,6 +238,10 @@
 #inicio da lista de ips que atacaram rdp
 187.33.202.101
 #fim da lista de ips atacantes ao rdp
+
+#inicio da lista de ips que atacaram sondagem
+189.56.116.2
+#fim da lista de ips atacantes ao sondagem
 
 #inicio da lista de ips que atacaram sslvpn
 146.70.168.140
