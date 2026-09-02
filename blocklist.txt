@@ -1,3 +1,4 @@
+# bloqueado dia 02/09 as 08h29 por ataques na nginx: 34.176.41.205
 # bloqueado dia 02/09 as 08h27 por ataques na nginx: 34.94.89.227
 # bloqueado dia 02/09 as 08h26 por ataques na nginx: 34.154.41.248
 # bloqueado dia 02/09 as 08h25 por ataques na nginx: 34.151.135.130
