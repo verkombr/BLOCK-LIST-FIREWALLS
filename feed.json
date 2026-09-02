@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-02T19:15:02.099815+00:00",
+  "gerado_em": "2026-09-02T20:17:15.878575+00:00",
   "fonte": "auto-block Wazuh rule 61071/5760/5503/5710/2502/11403/60122 -> FortiGate",
   "firewalls": [
     "EVEO",
@@ -27,7 +27,7 @@
     "45.163.151.5",
     "71.6.146.185"
   ],
-  "allow_nets": 2013,
+  "allow_nets": 2014,
   "formato": "1 item por linha, comentarios com #",
   "repos": {
     "block": "https://github.com/verkombr/BLOCK-LIST-FIREWALLS.git",
