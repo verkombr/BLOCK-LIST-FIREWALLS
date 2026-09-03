@@ -1,3 +1,4 @@
+# bloqueado dia 03/09 as 01h00 por ataques na nginx: 34.96.49.188
 # bloqueado dia 03/09 as 00h58 por ataques na mssql: 5.6.7.8
 # bloqueado dia 03/09 as 00h58 por ataques na mssql: 1.2.3.4
 # bloqueado dia 03/09 as 00h58 por ataques na mssql: 9.9.9.9
