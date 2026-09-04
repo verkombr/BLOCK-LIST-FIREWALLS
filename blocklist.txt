@@ -1,3 +1,4 @@
+# bloqueado dia 03/09 as 21h30 por ataques na nginx: 34.34.225.21
 # bloqueado dia 03/09 as 21h30 por ataques na mssql: 177.222.28.170
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
