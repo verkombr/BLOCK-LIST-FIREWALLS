@@ -1,13 +1,13 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-04T22:19:07.053317+00:00",
+  "gerado_em": "2026-09-05T00:15:01.650115+00:00",
   "fonte": "auto-block Wazuh rule 61071/5760/5503/5710/2502/11403/60122 -> FortiGate",
   "firewalls": [
     "EVEO",
     "VERKOM-200F"
   ],
   "ttl_dias": 30,
-  "bloqueados": 235,
+  "bloqueados": 236,
   "permanentes": 16,
   "permanentes_ips": [
     "153.117.33.35",
