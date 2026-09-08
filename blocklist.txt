@@ -1,7 +1,6 @@
-# bloqueado dia 08/09 as 18h10 por ataques na sondagem: 200.233.249.159
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 249 IPs (16 permanentes 🔁)
+# Total: 250 IPs (16 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.132.224.0
@@ -263,6 +262,7 @@
 #inicio da lista de ips que atacaram sondagem
 187.33.202.6
 189.56.116.2
+200.233.249.159
 #fim da lista de ips atacantes ao sondagem
 
 #inicio da lista de ips que atacaram ssh
