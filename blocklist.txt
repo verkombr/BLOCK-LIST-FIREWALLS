@@ -1,7 +1,6 @@
-# bloqueado dia 10/09 as 02h30 por ataques na mssql: 177.146.210.25
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 245 IPs (16 permanentes 🔁)
+# Total: 246 IPs (16 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.132.224.0
@@ -59,6 +58,7 @@
 177.135.246.151
 177.135.99.122
 177.146.210.235
+177.146.210.25
 177.192.156.97
 177.192.176.125
 177.222.28.170
