@@ -1,7 +1,6 @@
-# bloqueado dia 18/09 as 06h13 por ataques na nginx: 34.159.153.16
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 255 IPs (19 permanentes 🔁)
+# Total: 256 IPs (19 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.130.51.238
@@ -169,6 +168,7 @@
 34.154.63.128
 34.154.81.245
 34.158.78.8
+34.159.153.16
 34.159.26.7
 34.159.28.210
 34.16.133.249
