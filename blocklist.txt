@@ -1,3 +1,4 @@
+# bloqueado dia 19/09 as 19h42 por ataques na vpn ssl: 172.96.7.88
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 273 IPs (19 permanentes 🔁)
