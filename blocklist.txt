@@ -1,4 +1,3 @@
-# bloqueado dia 20/09 as 12h32 por ataques na nginx: 34.34.56.117
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 282 IPs (19 permanentes 🔁)
@@ -208,6 +207,7 @@
 34.34.229.53
 34.34.254.150
 34.34.254.236
+34.34.56.117
 34.35.9.194
 34.38.243.119
 34.39.172.183
@@ -278,7 +278,6 @@
 
 #inicio da lista de ips que atacaram sslvpn
 100.64.20.21
-146.70.168.140
 146.70.168.170
 152.232.136.56
 172.110.223.121
