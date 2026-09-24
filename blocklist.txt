@@ -1,3 +1,4 @@
+# bloqueado dia 24/09 as 13h30 por ataques na vpn ssl: 172.94.9.46
 # bloqueado dia 24/09 as 13h30 por ataques na vpn ssl: 192.253.248.108
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
