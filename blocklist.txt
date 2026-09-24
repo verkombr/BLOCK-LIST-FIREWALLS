@@ -1,3 +1,4 @@
+# bloqueado dia 24/09 as 13h21 por ataques na vpn ssl: 172.94.9.243
 # bloqueado dia 24/09 as 13h21 por ataques na vpn ssl: 172.94.9.187
 # bloqueado dia 24/09 as 13h21 por ataques na vpn ssl: 192.253.248.112
 # bloqueado dia 24/09 as 13h21 por ataques na vpn ssl: 192.253.248.105
