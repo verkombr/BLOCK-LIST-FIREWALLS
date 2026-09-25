@@ -1,8 +1,6 @@
-# bloqueado dia 25/09 as 01h00 por ataques na mssql: 131.255.152.2
-# bloqueado dia 25/09 as 01h00 por ataques na ssh: 186.227.243.82
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 332 IPs (19 permanentes 🔁)
+# Total: 334 IPs (19 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   153.117.33.35
 #   177.130.51.238
@@ -44,6 +42,7 @@
 #fim da lista de ips atacantes ao manual
 
 #inicio da lista de ips que atacaram mssql
+131.255.152.2
 138.121.138.250
 138.185.108.26
 138.186.24.95
@@ -306,6 +305,7 @@
 #inicio da lista de ips que atacaram ssh
 170.64.191.128
 177.44.191.61
+186.227.243.82
 45.231.126.255
 #fim da lista de ips atacantes ao ssh
 
