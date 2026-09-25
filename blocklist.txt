@@ -1,3 +1,4 @@
+# bloqueado dia 25/09 as 01h00 por ataques na mssql: 131.255.152.2
 # bloqueado dia 25/09 as 01h00 por ataques na ssh: 186.227.243.82
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
