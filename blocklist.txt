@@ -1,7 +1,6 @@
-# bloqueado dia 27/09 as 09h40 por ataques na vpn ssl: 152.232.136.46
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 262 IPs (21 permanentes 🔁)
+# Total: 263 IPs (21 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -244,6 +243,7 @@
 #inicio da lista de ips que atacaram sslvpn
 100.64.20.21
 146.70.168.170
+152.232.136.46
 152.232.136.56
 172.110.223.121
 172.94.9.187
