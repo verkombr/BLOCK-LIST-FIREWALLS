@@ -1,6 +1,6 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 267 IPs (21 permanentes 🔁)
+# Total: 266 IPs (21 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -216,7 +216,6 @@
 35.203.37.213
 35.238.176.119
 35.252.69.91
-35.254.188.98
 #fim da lista de ips atacantes ao nginx
 
 #inicio da lista de ips que atacaram sondagem
