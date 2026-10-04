@@ -1,7 +1,6 @@
-# bloqueado dia 04/10 as 18h12 por ataques na vpn ssl: 170.83.203.137
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 212 IPs (22 permanentes 🔁)
+# Total: 213 IPs (22 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -199,6 +198,7 @@
 152.232.9.51
 152.232.9.57
 152.232.9.68
+170.83.203.137
 172.94.9.187
 172.94.9.240
 172.94.9.241
