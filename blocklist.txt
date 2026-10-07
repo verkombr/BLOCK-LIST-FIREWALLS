@@ -1,24 +1,6 @@
-# bloqueado dia 07/10 as 19h24 por ataques na ssh: 184.178.172.13
-# bloqueado dia 07/10 as 19h24 por ataques na ssh: 184.170.248.5
-# bloqueado dia 07/10 as 19h24 por ataques na ssh: 174.64.199.82
-# bloqueado dia 07/10 as 19h23 por ataques na ssh: 104.200.135.46
-# bloqueado dia 07/10 as 19h23 por ataques na ssh: 174.75.211.193
-# bloqueado dia 07/10 as 19h23 por ataques na ssh: 162.214.74.29
-# bloqueado dia 07/10 as 19h23 por ataques na ssh: 107.174.30.92
-# bloqueado dia 07/10 as 19h23 por ataques na ssh: 104.28.225.187
-# bloqueado dia 07/10 as 19h22 por ataques na ssh: 174.77.111.196
-# bloqueado dia 07/10 as 19h22 por ataques na ssh: 174.77.111.198
-# bloqueado dia 07/10 as 19h22 por ataques na ssh: 184.170.245.148
-# bloqueado dia 07/10 as 19h22 por ataques na ssh: 174.77.111.197
-# bloqueado dia 07/10 as 19h21 por ataques na ssh: 174.64.199.79
-# bloqueado dia 07/10 as 19h21 por ataques na ssh: 104.200.152.30
-# bloqueado dia 07/10 as 19h21 por ataques na ssh: 147.15.126.122
-# bloqueado dia 07/10 as 19h21 por ataques na ssh: 107.174.30.94
-# bloqueado dia 07/10 as 19h20 por ataques na ssh: 174.75.211.222
-# bloqueado dia 07/10 as 19h20 por ataques na ssh: 107.167.18.124
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 217 IPs (23 permanentes 🔁)
+# Total: 235 IPs (23 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -199,8 +181,26 @@
 #fim da lista de ips atacantes ao sondagem
 
 #inicio da lista de ips que atacaram ssh
+104.200.135.46
+104.200.152.30
 104.28.193.189
+104.28.225.187
+107.167.18.124
+107.174.30.92
+107.174.30.94
+147.15.126.122
+162.214.74.29
+174.64.199.79
+174.64.199.82
+174.75.211.193
+174.75.211.222
+174.77.111.196
+174.77.111.197
+174.77.111.198
 177.44.191.61
+184.170.245.148
+184.170.248.5
+184.178.172.13
 186.194.234.18
 186.194.51.205
 186.227.243.82
