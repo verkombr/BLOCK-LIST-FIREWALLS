@@ -1,38 +1,6 @@
-# bloqueado dia 07/10 as 19h41 por ataques na ssh: 72.195.34.58
-# bloqueado dia 07/10 as 19h41 por ataques na ssh: 24.249.199.4
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 142.54.235.9
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 68.71.240.210
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 45.61.188.134
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 216.68.128.121
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 72.195.101.99
-# bloqueado dia 07/10 as 19h40 por ataques na ssh: 72.195.34.58
-# bloqueado dia 07/10 as 19h39 por ataques na ssh: 69.61.200.104
-# bloqueado dia 07/10 as 19h39 por ataques na ssh: 72.207.33.64
-# bloqueado dia 07/10 as 19h39 por ataques na ssh: 72.195.34.60
-# bloqueado dia 07/10 as 19h39 por ataques na ssh: 72.195.34.41
-# bloqueado dia 07/10 as 19h39 por ataques na ssh: 68.1.210.189
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 38.76.212.39
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 98.170.57.249
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 98.181.137.83
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 184.182.240.211
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 72.214.108.67
-# bloqueado dia 07/10 as 19h38 por ataques na ssh: 104.28.193.187
-# bloqueado dia 07/10 as 19h37 por ataques na ssh: 184.178.172.11
-# bloqueado dia 07/10 as 19h37 por ataques na ssh: 216.105.143.146
-# bloqueado dia 07/10 as 19h37 por ataques na ssh: 72.206.74.126
-# bloqueado dia 07/10 as 19h37 por ataques na ssh: 72.195.114.184
-# bloqueado dia 07/10 as 19h36 por ataques na ssh: 68.1.210.163
-# bloqueado dia 07/10 as 19h36 por ataques na ssh: 199.66.182.232
-# bloqueado dia 07/10 as 19h36 por ataques na ssh: 184.181.217.213
-# bloqueado dia 07/10 as 19h36 por ataques na ssh: 98.188.47.132
-# bloqueado dia 07/10 as 19h36 por ataques na ssh: 184.178.172.23
-# bloqueado dia 07/10 as 19h35 por ataques na ssh: 98.191.0.37
-# bloqueado dia 07/10 as 19h35 por ataques na ssh: 98.191.0.47
-# bloqueado dia 07/10 as 19h35 por ataques na ssh: 184.181.217.194
-# bloqueado dia 07/10 as 19h35 por ataques na ssh: 184.182.240.12
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 257 IPs (23 permanentes 🔁)
+# Total: 288 IPs (23 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -215,12 +183,14 @@
 #inicio da lista de ips que atacaram ssh
 104.200.135.46
 104.200.152.30
+104.28.193.187
 104.28.193.189
 104.28.225.187
 107.167.18.124
 107.174.30.92
 107.174.30.94
 107.181.161.81
+142.54.235.9
 147.15.126.122
 162.214.74.29
 174.64.199.79
@@ -234,31 +204,60 @@
 184.170.245.148
 184.170.248.5
 184.170.249.65
+184.178.172.11
 184.178.172.13
 184.178.172.17
 184.178.172.18
+184.178.172.23
 184.178.172.25
 184.178.172.26
 184.178.172.5
+184.181.217.194
 184.181.217.201
 184.181.217.206
 184.181.217.210
+184.181.217.213
+184.182.240.12
+184.182.240.211
 184.185.2.12
 184.75.221.82
 186.194.234.18
 186.194.51.205
 186.227.243.82
+199.66.182.232
 199.66.182.243
 199.66.183.226
 209.50.255.91
+216.105.143.146
+216.68.128.121
+24.249.199.4
+38.76.212.39
 45.173.166.132
+45.61.188.134
 65.109.215.187
+68.1.210.163
+68.1.210.189
+68.71.240.210
+69.61.200.104
 70.166.167.45
+72.195.101.99
 72.195.114.169
+72.195.114.184
+72.195.34.41
+72.195.34.58
+72.195.34.60
+72.206.74.126
+72.207.33.64
+72.214.108.67
 72.49.49.11
 85.209.156.148
 98.170.57.241
+98.170.57.249
+98.181.137.83
 98.182.147.97
+98.188.47.132
+98.191.0.37
+98.191.0.47
 #fim da lista de ips atacantes ao ssh
 
 #inicio da lista de ips que atacaram sslvpn
