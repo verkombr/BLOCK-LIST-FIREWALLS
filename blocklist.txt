@@ -1,28 +1,6 @@
-# bloqueado dia 07/10 as 19h34 por ataques na ssh: 199.66.183.226
-# bloqueado dia 07/10 as 19h34 por ataques na ssh: 98.170.57.241
-# bloqueado dia 07/10 as 19h34 por ataques na ssh: 98.182.147.97
-# bloqueado dia 07/10 as 19h34 por ataques na ssh: 65.109.215.187
-# bloqueado dia 07/10 as 19h33 por ataques na ssh: 209.50.255.91
-# bloqueado dia 07/10 as 19h33 por ataques na ssh: 184.170.249.65
-# bloqueado dia 07/10 as 19h33 por ataques na ssh: 70.166.167.45
-# bloqueado dia 07/10 as 19h33 por ataques na ssh: 107.181.161.81
-# bloqueado dia 07/10 as 19h33 por ataques na ssh: 72.195.114.169
-# bloqueado dia 07/10 as 19h32 por ataques na ssh: 184.185.2.12
-# bloqueado dia 07/10 as 19h32 por ataques na ssh: 85.209.156.148
-# bloqueado dia 07/10 as 19h32 por ataques na ssh: 184.181.217.201
-# bloqueado dia 07/10 as 19h32 por ataques na ssh: 184.181.217.206
-# bloqueado dia 07/10 as 19h32 por ataques na ssh: 184.178.172.5
-# bloqueado dia 07/10 as 19h31 por ataques na ssh: 184.178.172.18
-# bloqueado dia 07/10 as 19h31 por ataques na ssh: 72.49.49.11
-# bloqueado dia 07/10 as 19h31 por ataques na ssh: 199.66.182.243
-# bloqueado dia 07/10 as 19h31 por ataques na ssh: 184.178.172.17
-# bloqueado dia 07/10 as 19h30 por ataques na ssh: 184.178.172.25
-# bloqueado dia 07/10 as 19h30 por ataques na ssh: 184.181.217.210
-# bloqueado dia 07/10 as 19h30 por ataques na ssh: 184.178.172.26
-# bloqueado dia 07/10 as 19h30 por ataques na ssh: 184.75.221.82
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 235 IPs (23 permanentes 🔁)
+# Total: 257 IPs (23 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -210,6 +188,7 @@
 107.167.18.124
 107.174.30.92
 107.174.30.94
+107.181.161.81
 147.15.126.122
 162.214.74.29
 174.64.199.79
@@ -222,11 +201,32 @@
 177.44.191.61
 184.170.245.148
 184.170.248.5
+184.170.249.65
 184.178.172.13
+184.178.172.17
+184.178.172.18
+184.178.172.25
+184.178.172.26
+184.178.172.5
+184.181.217.201
+184.181.217.206
+184.181.217.210
+184.185.2.12
+184.75.221.82
 186.194.234.18
 186.194.51.205
 186.227.243.82
+199.66.182.243
+199.66.183.226
+209.50.255.91
 45.173.166.132
+65.109.215.187
+70.166.167.45
+72.195.114.169
+72.49.49.11
+85.209.156.148
+98.170.57.241
+98.182.147.97
 #fim da lista de ips atacantes ao ssh
 
 #inicio da lista de ips que atacaram sslvpn
