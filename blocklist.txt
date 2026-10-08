@@ -1,3 +1,4 @@
+# bloqueado dia 08/10 as 03h30 por ataques na ssh: 177.136.124.45
 # bloqueado dia 08/10 as 03h30 por ataques na ssh: 160.250.130.168
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
