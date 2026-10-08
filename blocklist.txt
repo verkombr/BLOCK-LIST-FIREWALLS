@@ -1,15 +1,6 @@
-# bloqueado dia 08/10 as 14h44 por ataques na ssh: 199.116.114.11
-# bloqueado dia 08/10 as 14h44 por ataques na ssh: 107.174.30.94
-# bloqueado dia 08/10 as 14h43 por ataques na ssh: 174.77.111.197
-# bloqueado dia 08/10 as 14h42 por ataques na ssh: 64.188.71.169
-# bloqueado dia 08/10 as 14h41 por ataques na sondagem: 1.2.3.4
-# bloqueado dia 08/10 as 14h41 por ataques na mssql: 5.6.7.8
-# bloqueado dia 08/10 as 14h41 por ataques na mssql: 1.2.3.4
-# bloqueado dia 08/10 as 14h41 por ataques na mssql: 9.9.9.9
-# bloqueado dia 08/10 as 14h41 por ataques na mssql: 200.165.110.186
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 200 IPs
+# Total: 203 IPs
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
@@ -69,6 +60,7 @@
 104.37.135.145
 107.152.98.5
 107.174.202.19
+107.174.30.94
 107.181.168.145
 108.61.29.163
 12.205.151.220
@@ -98,6 +90,7 @@
 169.40.136.13
 169.40.136.8
 174.64.199.82
+174.77.111.197
 177.136.124.45
 177.234.217.42
 177.234.221.194
@@ -143,6 +136,7 @@
 198.8.84.3
 198.8.94.174
 199.102.105.242
+199.116.114.11
 199.66.183.251
 2.56.178.88
 200.188.246.122
