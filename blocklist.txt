@@ -1,23 +1,6 @@
-# bloqueado dia 08/10 as 16h04 por ataques na ssh: 186.247.190.121
-# bloqueado dia 08/10 as 16h03 por ataques na ssh: 47.237.48.66
-# bloqueado dia 08/10 as 16h02 por ataques na ssh: 104.28.193.189
-# bloqueado dia 08/10 as 16h01 por ataques na ssh: 104.28.193.189
-# bloqueado dia 08/10 as 16h01 por ataques na ssh: 107.175.236.233
-# bloqueado dia 08/10 as 16h00 por ataques na ssh: 107.175.236.233
-# bloqueado dia 08/10 as 16h00 por ataques na ssh: 103.174.123.134
-# bloqueado dia 08/10 as 15h59 por ataques na ssh: 103.174.123.134
-# bloqueado dia 08/10 as 15h59 por ataques na ssh: 104.28.243.105
-# bloqueado dia 08/10 as 15h58 por ataques na ssh: 104.28.243.105
-# bloqueado dia 08/10 as 15h58 por ataques na ssh: 104.28.167.89
-# bloqueado dia 08/10 as 15h57 por ataques na ssh: 104.28.167.89
-# bloqueado dia 08/10 as 15h57 por ataques na ssh: 45.173.166.132
-# bloqueado dia 08/10 as 15h56 por ataques na ssh: 45.173.166.132
-# bloqueado dia 08/10 as 15h56 por ataques na ssh: 104.28.165.167
-# bloqueado dia 08/10 as 15h55 por ataques na ssh: 104.28.165.167
-# bloqueado dia 08/10 as 15h55 por ataques na ssh: 186.194.234.18
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 275 IPs
+# Total: 284 IPs
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
@@ -27,6 +10,7 @@
 #inicio da lista de ips que atacaram ssh
 103.158.210.80
 103.174.122.206
+103.174.123.134
 103.176.187.228
 103.178.121.234
 103.179.172.167
@@ -49,6 +33,7 @@
 104.28.162.160
 104.28.162.251
 104.28.164.164
+104.28.165.167
 104.28.165.169
 104.28.165.172
 104.28.165.173
@@ -57,10 +42,12 @@
 104.28.165.235
 104.28.165.236
 104.28.166.39
+104.28.167.89
 104.28.167.95
 104.28.167.98
 104.28.193.187
 104.28.193.188
+104.28.193.189
 104.28.193.190
 104.28.195.187
 104.28.196.110
@@ -78,6 +65,7 @@
 104.28.239.218
 104.28.239.219
 104.28.239.220
+104.28.243.105
 104.28.243.32
 104.28.246.50
 104.37.135.145
@@ -87,6 +75,7 @@
 107.174.202.19
 107.174.30.92
 107.174.30.94
+107.175.236.233
 107.181.161.81
 107.181.168.145
 108.61.29.163
@@ -166,6 +155,7 @@
 186.194.234.18
 186.194.51.205
 186.227.243.82
+186.247.190.121
 186.247.190.50
 186.247.190.94
 186.26.95.249
@@ -233,9 +223,11 @@
 38.79.114.43
 45.133.5.77
 45.162.230.58
+45.173.166.132
 45.3.35.246
 45.61.188.134
 47.236.188.63
+47.237.48.66
 47.243.1.32
 47.245.165.201
 47.253.202.181
