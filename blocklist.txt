@@ -1,3 +1,4 @@
+# bloqueado dia 08/10 as 14h33 por ataques na mssql: 1.2.3.4
 # bloqueado dia 08/10 as 14h33 por ataques na mssql: 9.9.9.9
 # bloqueado dia 08/10 as 14h31 por ataques na sondagem: 1.2.3.4
 # bloqueado dia 08/10 as 14h31 por ataques na mssql: 5.6.7.8
