@@ -1,7 +1,6 @@
-# bloqueado dia 08/10 as 20h01 por ataques na nginx: 34.2.51.50
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 299 IPs
+# Total: 300 IPs
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
@@ -10,6 +9,7 @@
 
 #inicio da lista de ips que atacaram nginx
 104.28.207.246
+34.2.51.50
 #fim da lista de ips atacantes ao nginx
 
 #inicio da lista de ips que atacaram ssh
