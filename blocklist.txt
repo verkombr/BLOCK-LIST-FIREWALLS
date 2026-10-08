@@ -1,10 +1,6 @@
-# bloqueado dia 08/10 as 07h14 por ataques na ssh: 103.154.231.123
-# bloqueado dia 08/10 as 07h13 por ataques na ssh: 199.58.185.9
-# bloqueado dia 08/10 as 07h11 por ataques na ssh: 149.22.85.72
-# bloqueado dia 08/10 as 07h10 por ataques na ssh: 68.235.46.27
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 358 IPs (18 permanentes 🔁)
+# Total: 362 IPs (18 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   1.2.3.4
 #   153.117.33.35
@@ -120,6 +116,7 @@
 #fim da lista de ips atacantes ao nginx
 
 #inicio da lista de ips que atacaram ssh
+103.154.231.123
 103.158.210.80
 103.174.122.206
 103.176.187.228
@@ -204,6 +201,7 @@
 142.54.239.1
 147.15.126.122
 149.102.229.132
+149.22.85.72
 150.136.58.221
 152.42.170.187
 152.70.156.142
@@ -292,6 +290,7 @@
 198.8.84.3
 198.8.94.174
 199.102.105.242
+199.58.185.9
 199.66.182.232
 199.66.182.243
 199.66.183.226
@@ -344,6 +343,7 @@
 68.1.210.163
 68.1.210.189
 68.235.38.3
+68.235.46.27
 68.71.240.210
 68.71.241.33
 68.71.245.206
