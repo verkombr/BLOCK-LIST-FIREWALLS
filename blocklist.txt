@@ -1,3 +1,4 @@
+# bloqueado dia 08/10 as 02h19 por ataques na ssh: 104.28.225.187
 # bloqueado dia 08/10 as 02h17 por ataques na ssh: 216.105.143.146
 # bloqueado dia 08/10 as 02h16 por ataques na ssh: 199.66.182.232
 # bloqueado dia 08/10 as 02h15 por ataques na ssh: 184.178.172.11
