@@ -1,21 +1,6 @@
-# bloqueado dia 08/10 as 15h24 por ataques na ssh: 70.166.167.45
-# bloqueado dia 08/10 as 15h23 por ataques na ssh: 184.181.217.213
-# bloqueado dia 08/10 as 15h22 por ataques na ssh: 45.61.188.134
-# bloqueado dia 08/10 as 15h21 por ataques na ssh: 216.68.128.121
-# bloqueado dia 08/10 as 15h20 por ataques na ssh: 184.181.217.201
-# bloqueado dia 08/10 as 15h19 por ataques na ssh: 184.181.217.201
-# bloqueado dia 08/10 as 15h19 por ataques na ssh: 104.200.135.46
-# bloqueado dia 08/10 as 15h18 por ataques na ssh: 104.200.135.46
-# bloqueado dia 08/10 as 15h18 por ataques na ssh: 72.195.114.169
-# bloqueado dia 08/10 as 15h17 por ataques na ssh: 72.195.114.169
-# bloqueado dia 08/10 as 15h17 por ataques na ssh: 184.181.217.194
-# bloqueado dia 08/10 as 15h16 por ataques na ssh: 184.181.217.194
-# bloqueado dia 08/10 as 15h16 por ataques na ssh: 192.252.214.20
-# bloqueado dia 08/10 as 15h15 por ataques na ssh: 192.252.214.20
-# bloqueado dia 08/10 as 15h15 por ataques na ssh: 186.194.51.205
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 236 IPs
+# Total: 245 IPs
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
@@ -28,6 +13,7 @@
 103.176.187.228
 103.178.121.234
 103.179.172.167
+104.200.135.46
 104.200.152.30
 104.207.90.193
 104.28.152.160
@@ -135,7 +121,10 @@
 184.178.172.28
 184.178.172.3
 184.178.172.5
+184.181.217.194
+184.181.217.201
 184.181.217.210
+184.181.217.213
 184.181.217.220
 184.182.240.12
 184.182.240.211
@@ -168,6 +157,7 @@
 192.252.208.70
 192.252.209.155
 192.252.209.158
+192.252.214.20
 192.252.216.81
 192.252.220.89
 192.252.220.92
@@ -192,6 +182,7 @@
 216.105.130.131
 216.105.143.146
 216.203.38.38
+216.68.128.121
 23.251.102.116
 23.251.102.117
 24.249.199.12
@@ -206,6 +197,7 @@
 45.133.5.77
 45.162.230.58
 45.3.35.246
+45.61.188.134
 47.236.188.63
 47.245.165.201
 47.254.36.25
@@ -228,10 +220,12 @@
 68.71.252.38
 69.145.193.242
 69.61.200.104
+70.166.167.45
 70.166.167.55
 70.166.65.160
 72.194.42.131
 72.194.42.156
+72.195.114.169
 72.195.34.42
 72.205.0.67
 72.206.74.126
