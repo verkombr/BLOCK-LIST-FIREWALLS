@@ -1,3 +1,4 @@
+# bloqueado dia 08/10 as 04h28 por ataques na ssh: 173.236.254.75
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
 # Total: 276 IPs (18 permanentes 🔁)
