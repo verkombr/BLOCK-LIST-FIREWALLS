@@ -1,10 +1,11 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 307 IPs (1 permanentes 🔁)
+# Total: 308 IPs (1 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   179.93.80.69
 
 #inicio da lista de ips que atacaram mssql
+177.135.99.122
 179.231.230.11
 179.93.80.69
 200.165.110.186
