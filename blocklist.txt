@@ -1,7 +1,6 @@
-# bloqueado dia 09/10 as 01h33 por ataques na vpn ssl: 152.232.136.44
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 300 IPs
+# Total: 301 IPs
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
@@ -312,6 +311,7 @@
 #fim da lista de ips atacantes ao ssh
 
 #inicio da lista de ips que atacaram sslvpn
+152.232.136.44
 172.94.9.46
 #fim da lista de ips atacantes ao sslvpn
 
