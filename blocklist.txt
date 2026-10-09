@@ -1,10 +1,12 @@
-# bloqueado dia 09/10 as 06h20 por ataques na mssql: 179.93.80.69
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 304 IPs
+# Total: 305 IPs (1 permanentes 🔁)
+# 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
+#   179.93.80.69
 
 #inicio da lista de ips que atacaram mssql
 179.231.230.11
+179.93.80.69
 200.165.110.186
 201.182.237.141
 #fim da lista de ips atacantes ao mssql
