@@ -10,12 +10,12 @@
 179.93.80.69
 200.165.110.186
 201.182.237.141
+201.93.161.154
 45.169.68.238
 #fim da lista de ips atacantes ao mssql
 
 #inicio da lista de ips que atacaram nginx
 104.28.207.246
-34.156.1.148
 34.2.48.119
 34.2.51.50
 34.39.221.164
