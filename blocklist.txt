@@ -11,7 +11,7 @@
 #fim da lista de ips atacantes ao mssql
 
 #inicio da lista de ips que atacaram nginx
-34.175.74.1
+34.15.172.203
 #fim da lista de ips atacantes ao nginx
 
 #inicio da lista de ips que atacaram outros
