@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-22T18:45:02.280938+00:00",
+  "gerado_em": "2026-10-22T18:55:02.280693+00:00",
   "fonte": "auto-block Wazuh rule 61071/5760/5503/5710/2502/11403/60122 -> FortiGate",
   "firewalls": [
     "EVEO",
@@ -8,10 +8,8 @@
   ],
   "ttl_dias": 30,
   "bloqueados": 17,
-  "permanentes": 1,
-  "permanentes_ips": [
-    "131.255.31.19"
-  ],
+  "permanentes": 0,
+  "permanentes_ips": [],
   "allow_nets": 2052,
   "formato": "1 item por linha, comentarios com #",
   "repos": {
