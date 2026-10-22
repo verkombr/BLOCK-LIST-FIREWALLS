@@ -1,6 +1,6 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 15 IPs
+# Total: 16 IPs
 
 #inicio da lista de ips que atacaram mssql
 138.118.4.138
@@ -27,5 +27,6 @@
 152.232.136.55
 152.232.136.61
 152.232.136.62
+186.243.186.154
 #fim da lista de ips atacantes ao sslvpn
 
