@@ -1,6 +1,6 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 20 IPs
+# Total: 19 IPs
 
 #inicio da lista de ips que atacaram mssql
 131.255.31.19
@@ -17,7 +17,6 @@
 
 #inicio da lista de ips que atacaram nginx
 34.32.81.41
-34.48.154.215
 #fim da lista de ips atacantes ao nginx
 
 #inicio da lista de ips que atacaram outros
