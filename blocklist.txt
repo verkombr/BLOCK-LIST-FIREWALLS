@@ -1,6 +1,6 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 889 IPs (796 permanentes 🔁)
+# Total: 890 IPs (796 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   103.154.231.123
 #   103.158.210.80
@@ -1708,6 +1708,7 @@
 172.121.80.19
 177.202.206.114
 186.240.181.220
+186.243.151.107
 186.243.186.154
 #fim da lista de ips atacantes ao sslvpn
 
