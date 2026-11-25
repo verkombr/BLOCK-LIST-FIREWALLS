@@ -1,6 +1,6 @@
 # BLOCK LIST
 # Fonte: auto-block Wazuh -> FortiGate (EVEO + VERKOM-200F)
-# Total: 960 IPs (796 permanentes 🔁)
+# Total: 961 IPs (796 permanentes 🔁)
 # 🔁 PERMANENTES (reincidentes, sem TTL — regra 11/08/2026):
 #   103.154.231.123
 #   103.158.210.80
@@ -1469,6 +1469,10 @@
 99.79.124.155
 99.79.71.26
 #fim da lista de ips atacantes ao outros
+
+#inicio da lista de ips que atacaram rdp
+191.13.80.89
+#fim da lista de ips atacantes ao rdp
 
 #inicio da lista de ips que atacaram ssh
 103.154.231.123
